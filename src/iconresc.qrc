@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Statusoff.png</file>
+        <file>Statuson.png</file>
+    </qresource>
+</RCC>
